@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oohiereeph.carlsimonadorf.com/sitemap.xml
